@@ -24,3 +24,8 @@ iv. Create a database and collection in the UI, this is where we will store our 
 ### Step 2: Code on Raspberry Pi Pico W
 
 >egress.py
+
+> note:
+> Insert your internet name, internet password, MongoDB Data API URL, and API Key accordingly in the code. <br>
+> In the payload you need to add your cluster, database, and collection names. <br>
+> We are simply connecting to WiFi and sending a payload to their API with extension /action/insertOne, which will allow us to insert one document. We are using some dummy data for this example!
