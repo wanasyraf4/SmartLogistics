@@ -1,5 +1,7 @@
 # SmartLogistics <br/>
+
 ![image](https://github.com/user-attachments/assets/0723c7dd-5135-4b31-881d-d3b9b87861b5) <br/>
+
 
 Digitize supply chains and provide a new level of visibility, control and insight into critical assets.
 
