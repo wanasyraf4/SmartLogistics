@@ -1,4 +1,6 @@
-# SmartLogistics
+# SmartLogistics <br/>
+
+Digitize supply chains and provide a new level of visibility, control and insight into critical assets.
 
 
 ## GPS tracking System <br/>
