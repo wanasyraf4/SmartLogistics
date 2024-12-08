@@ -7,7 +7,7 @@ content <br/>
 - Microcontroller stream to cloud
 - Enable API
 - stream via atlas
-- 
+- data processing
 
 ## send data from u-controller to mongoDB <br>
 ### Step 1: Setup Account<br>
