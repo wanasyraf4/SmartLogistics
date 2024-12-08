@@ -11,6 +11,7 @@ content <br/>
 - Enable API
 - stream via atlas
 - data processing
+- Serving
 
 ## send data from u-controller to mongoDB <br>
 ### Step 1: Setup Account<br>
